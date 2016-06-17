@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "deileyshane",
+    "email": "deileyshane@outlook.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.0",
+    "path": "^0.12.7"
+  },
+  "description": "NodeMovieList",
+  "main": "server.js",
+  "name": "node-movie-list",
+  "repository": "",
+  "version": "0.0.0"
+}
